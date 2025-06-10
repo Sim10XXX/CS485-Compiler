@@ -1,5 +1,10 @@
 # CS485-Compiler
 
+## Assignment Description
+
+The main goal is to take the PA2 output, and generate assembly code that can be executed, following the operational semantics of Cool such that your compiler's output program behaves the same way as the reference compiler's output (from the outside)
+
+Full details can be found here: https://kelloggm.github.io/martinjkellogg.com/teaching/cs485-sp25/projects/pa3.html
 
 ## Project Description
 
