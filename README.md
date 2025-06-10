@@ -2,6 +2,10 @@
 
 ## Assignment Description
 
+The goal is to take the PA3 implementation, and improve the performance/size of the generated code by implementing optimizations, and maintaining soundness.
+
+Full description: https://kelloggm.github.io/martinjkellogg.com/teaching/cs485-sp25/projects/pa4.html
+
 ## Project Description
 
 Some optimizations are more convienient when the program is in CFG form
